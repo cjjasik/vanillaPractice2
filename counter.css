@@ -1,4 +1,16 @@
 .buttons {
  background-color: white;
- color: black;   
+ color: black;
+}
+
+#all-buttons {
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+}
+
+#counter-number {
+    text-align: center;
 }
